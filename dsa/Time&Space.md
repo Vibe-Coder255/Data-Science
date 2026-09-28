@@ -20,8 +20,7 @@ Rate of increase in time with respect to input size is called as Time Complexity
 
 Memory Space to run a program.
 
-It consists of two thing : Auxiliary Space + Input Space 
+* It consists of two thing : ``Auxiliary Space + Input Space``
 
-Auxiliary Space : The extra space used to solve the problem.
-Input Space : The space used to store the input.
-
+* Auxiliary Space : The extra space used to solve the problem.
+* Input Space : The space used to store the input.
